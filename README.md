@@ -1,2 +1,3 @@
 # SQL-Challenge
-My repo for everything sql
+
+Repository for SQL Data Analysis Challenge 
